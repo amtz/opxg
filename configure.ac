@@ -1,4 +1,4 @@
-AC_INIT([opxg], [1.0], [opxg@thenullest.org], [foreign])
+AC_INIT([opxg], [1.0], [opxg@thenullest.org])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_PROG_CC
 AM_CONFIG_HEADER(config.h)
